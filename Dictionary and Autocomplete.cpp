@@ -1,11 +1,6 @@
 /*
 
-Data Structures Lab
-20XD27
-
 DICTIONARY and AUTOCOMPLETE using Trie
-
-Program by Parthasarathi ( 21pd24 ) and Sanjay Ram RR ( 21pd32 )
 
 */
 
